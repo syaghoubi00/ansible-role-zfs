@@ -12,7 +12,7 @@ None.
 
 ## Dependencies
 
-None.
+`syaghoubi00.epel` - To install EPEL
 
 ## Example Playbook
 

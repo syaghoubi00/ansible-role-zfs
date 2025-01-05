@@ -1,4 +1,6 @@
-dependencies: []
+dependencies:
+  - role: syaghoubi00.epel
+    src: git+https://github.com/syaghoubi00/ansible-role-epel.git
 galaxy_info:
   author: syaghoubi00
   description: Installs ZFS
