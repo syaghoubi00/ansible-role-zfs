@@ -8,7 +8,7 @@ None.
 
 ## Role Variables
 
-None.
+`zfs_kabi:` - Use kABI instead of DKMS
 
 ## Dependencies
 
